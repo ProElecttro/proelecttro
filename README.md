@@ -1,64 +1,46 @@
 # ⚡ Purushottam Sharma (proelecttro)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Systems+Engineer;Firmware+%7C+Microarchitecture;Performance+Driven+Development" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f3460&height=300&section=header&text=PROELECTTRO&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Systems+Engineer;Firmware+%7C+Microarchitecture;Performance+Obsessed;I+optimize+what+others+ignore;Latency+Matters;Cache+Misses+Matter;Everything+Matters" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=proelecttro&label=PROFILE+VIEWS&color=0ff&style=for-the-badge" />
 </p>
 
 ---
 
-## 👤 About Me
-Electrical Engineering @ IIT Madras  
+## 🧠 ABOUT
 
-I build systems where **performance, correctness, and constraints** matter.  
-Focused on firmware, architecture, and high-performance systems.
+```text
+I don't build apps.
+I build systems that survive scale, pressure, and reality.
 
----
-
-## 🚀 Experience
-
-### Software Engineering Intern — Google
-- Integrated xHCI stack into SafeRTOS for USB host support  
-- Designed DMA allocator for constrained SRAM  
-- Configured SMMU for secure DMA translation  
-- Built firmware validation pipelines  
-
-### Software Development Intern — FedEx
-- Built routing system using KD Trees, MST, DFS  
-- Integrated OSM + OSRM for real-world deployment  
-- Improved delivery efficiency and fleet utilization  
+Hardware ↔ Firmware ↔ Systems ↔ Performance
+```
 
 ---
 
-## 🏗️ Highlight Metrics
+## ⚡ PERFORMANCE WALL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Branch%20Prediction%20Accuracy-98.5%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IPC%20Speedup-3.02x-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Branch%20Prediction-98.5%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IPC%20Gain-3.02x-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML%20Accuracy-98.32%25-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Speedup-700x-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Projects
-
-### Microarchitecture Simulation
-- Hybrid perceptron predictor → **98.5% accuracy**
-- Adaptive IPCP prefetcher for complex patterns
-- Epoch-based throttling with MSHR feedback
-- **3.02× IPC gain within 2.72 KB budget**
-
-### Pattern Recognition Engine
-- HOG-based classification → **98.32% accuracy**
-- **700× speedup** with parallelization
-
-### Scientific Computing Toolkit
-- Beamforming simulation
-- Circuit solver with Cython acceleration
-
----
-
-## ⚙️ Tech Stack
+## 🧰 STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,java,react,nodejs,nextjs,flask,linux,docker,mysql,git" />
@@ -66,58 +48,102 @@ Focused on firmware, architecture, and high-performance systems.
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 LEETCODE HEATMAP
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proelecttro&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proelecttro&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=proelecttro&theme=tokyonight&hide_border=true" />
+  <img src="https://leetcard.jacoblin.cool/pro-electro?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📊 CORE STATS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proelecttro&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=proelecttro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proelecttro&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=proelecttro&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧭 Leadership
+## 📊 ANALYTICS GRID
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proelecttro&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proelecttro&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proelecttro&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proelecttro&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proelecttro&theme=react-dark&bg_color=000000&hide_border=true" />
+</p>
+
+---
+
+## ⚙️ SYSTEM VIEW
+
+```text
+[ Hardware ]
+     ↓
+[ Firmware ]
+     ↓
+[ OS ]
+     ↓
+[ Runtime ]
+     ↓
+[ Application ]
+
+→ I optimize across the entire stack
+```
+
+---
+
+## 🧭 LEADERSHIP
+
 Head, WebOps Club — IIT Madras  
-- Led 40+ developers  
+- Led 40+ engineers  
 - Built production-grade systems  
 - Trained 1000+ students  
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proelecttro&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect
+## 📫 CONNECT
 
 <p align="center">
   <a href="mailto:purushottam001729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/purushottamjairajsharma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/proelecttro">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Philosophy
-> Performance is a feature. Correctness is non-negotiable.
+## ⚡ PHILOSOPHY
+
+```text
+Speed is not optional
+Correctness is mandatory
+Understanding beats memorization
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f3460&height=120&section=footer" />
+</p>
