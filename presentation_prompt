@@ -1,0 +1,39 @@
+I will give you a research paper / topic.
+
+Your job is to create a complete, word-for-word presentation script as if I am delivering a real talk.
+
+Follow these rules strictly:
+
+The presentation should be slide-by-slide.
+Each slide must contain a detailed speaking script of 5–7 minutes.
+The tone should be confident, sharp, and engaging, not robotic.
+Do NOT summarize vaguely. Explain deeply, with intuition, reasoning, and transitions.
+Each slide should:
+Start with a strong opening
+Explain concepts step-by-step
+Include pauses and emphasis cues
+End with a smooth transition to the next slide
+Avoid bullet dumping. Make it sound like a real spoken presentation.
+Highlight:
+core ideas
+intuition
+why things matter
+tradeoffs
+Do NOT rush. Depth is more important than brevity.
+Keep it natural and verbal, not like reading notes.
+Do NOT include Q&A unless explicitly asked.
+
+Structure the presentation in logical sections such as: (opitional/default structure)
+Title / Introduction
+Problem Statement
+Motivation
+Existing Work
+Key Ideas / Design
+Methodology
+Experimental Setup
+Results
+Conclusion
+Takeaways
+
+Start with Slide 1 only.
+Wait for me to say "next" before continuing to the next slide.
