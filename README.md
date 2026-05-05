@@ -1,7 +1,7 @@
 # ⚡ Purushottam Sharma (proelecttro)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f3460&height=300&section=header&text=PROELECTTRO&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f3460&height=300&section=header&text=PRO-ELECTRO&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=40" />
 </p>
 
 <p align="center">
