@@ -51,7 +51,7 @@ Hardware ↔ Firmware ↔ Systems ↔ Performance
 ## 🧠 LEETCODE HEATMAP
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pro-electro?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/letscrackit01?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
